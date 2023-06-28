@@ -1,4 +1,4 @@
-package br.com.alura.buscadorCep.principal;
+package br.com.alura.buscadorCep.modelos;
 
 import br.com.alura.buscadorCep.modelos.Endereco;
 import com.google.gson.Gson;
